@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [https://donedbsela.rf.gd/](https://donedbsela.rf.gd/)
+- 👨‍💻 You can also check out my portofolio at [https://donedbsela.rf.gd/](https://donedbsela.rf.gd/)
 
 - 📫 How to reach me **marcelasella7@gmail.com**
 
